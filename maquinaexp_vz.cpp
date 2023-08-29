@@ -73,7 +73,7 @@ int main() {
                                 cout << "Despachando Kitkat chunky" << endl;
                                 break;
                             default:
-                                cout << "Inexistente D:" << endl;
+                                cout << "Su producto no existe. Reiniciando..." << endl;
                                 break;
                         }
                         break;
@@ -89,7 +89,7 @@ int main() {
                                 cout << "Despachando M&M's clásicas" << endl;
                                 break;
                             default:
-                                cout << "Inexistente D:" << endl;
+                                cout << "Su producto no existe. Reiniciando..." << endl;
                                 break;
                         }
                         break;
@@ -105,12 +105,12 @@ int main() {
                                 cout << "Despachando Hershey's blanco" << endl;
                                 break;
                             default:
-                                cout << "Inexistente D:" << endl;
+                                cout << "Su producto no existe. Reiniciando..." << endl;
                                 break;
                         }
                         break;
                     default:
-                        cout << "Inexistente D:" << endl;
+                        cout << "Su producto no existe. Reiniciando..." << endl;
                         break;
                 }
                 break;
@@ -135,7 +135,7 @@ int main() {
                         cout << "Despachando Sprite" << endl;
                         break;
                     default:
-                        cout << "Inexistente D:" << endl;
+                        cout << "Su producto no existe. Reiniciando..." << endl;
                         break;
                 }
                 break;
@@ -151,7 +151,7 @@ int main() {
                 return 0;
 
             default:
-                cout << "Inexistente D:" << endl;
+                cout << "Su producto no existe. Reiniciando..." << endl;
                 break;
         }
     }
