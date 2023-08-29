@@ -38,7 +38,7 @@ int main() {
     char opcionPrincipal, opcionSubMenu;
 
     while (true) {
-        cout << "Menú Principal" << endl;
+        cout << "------------ menu principal ------------" << endl;
         cout << "T - Tipos de Chocolates" << endl;
         cout << "R - Tipos de Refrescos" << endl;
         cout << "P - Tipos de Papas" << endl;
