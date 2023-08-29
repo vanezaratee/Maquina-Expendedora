@@ -147,7 +147,7 @@ int main() {
 
             case 'C':
             case 'c':
-                cout << "Gracias por tu compra :D" << endl;
+                cout << "Gracias, saliendo..." << endl;
                 return 0;
 
             default:
